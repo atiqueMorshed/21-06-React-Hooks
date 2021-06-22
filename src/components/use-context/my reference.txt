@@ -1,0 +1,2 @@
+//https://docs.google.com/document/d/1mY4bOuE7Yd9pROGISj5DzAnGeodx7l6EdgJeyIRQ7Go/edit
+//https://github.com/ArrowX17/21-05-React-EcommerceV1/tree/from-context-api
